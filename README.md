@@ -1,6 +1,6 @@
 [![Blog-Banner.jpg](https://i.postimg.cc/5N2qWbk2/Blog-Banner.jpg)](https://postimg.cc/bd42Qch7)
 <h1 align="center">Hi 👋, I'm Anju Saini</h1>
-<h3 align="center">Data Analyst | Upskilling in Data Science & Machine Learning</h3>
+<h2 align="center">Data Analyst | Upskilling in Data Science & Machine Learning</h3>
 <img align="right" src="https://i.postimg.cc/9f36WZQW/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="400" alt="Cool GIF">
 
 - 💬 Ask me about **SQL, Excel, Power BI, Python**
