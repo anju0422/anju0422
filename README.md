@@ -34,16 +34,14 @@
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://i.postimg.cc/L5hkYSdB/download-3.png" alt="numpy" width="30" height="30" />
     </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://i.postimg.cc/3NCFgNyp/download-2.png" alt="matplotlib" width="30" height="30" />
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
         <img src="https://i.postimg.cc/FFnqRnyx/download-1.png" alt="tableau" width="30" height="30" />
     </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
-    </a>
 </p>
+
 
 
 
