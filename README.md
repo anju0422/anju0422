@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anju-saini-228573163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anju-saini-228573163" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anju-saini-228573163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anju-saini-228573163" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/sainianju741" target="blank"><img align="center" src="https://i.postimg.cc/Yq9qJ9kC/800px-Hacker-Rank-Icon-1000px.png" alt="https://www.hackerrank.com/profile/sainianju741" height="30" width="40" /></a>
 </p>
 
