@@ -11,7 +11,7 @@ I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Exce
 - EDA to generate insights & curate recommendations relevant to the problem statement
 - Data Visualization
 - Dashboarding (using BI Tools such as Power BI and Tableau)
-- Excel for generating reports and dashboards Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs), Pivot Tables, Excel Charts, Data Validation, and Conditional Formatting.
+- Excel for generating reports and dashboards using Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs, etc), Pivot Tables, Excel Charts, Data Validation, and Conditional Formatting.
 - Applied Statistics (Conditional Probability, Random Variables & Distributions, CLT, Hypothesis Testing, etc )
 
 Beyond these technical skills, I have a deep interest in Artificial Intelligence (AI) and Machine Learning (ML) and how they can address various business challenges. I'm actively upskilling in this domain and hope to see myself as a skilled professional comfortable to work across the multiple stages in a typical ML project.
@@ -104,7 +104,7 @@ Prior to my data-focused roles, I worked as a Business Analyst Intern. During th
  Let's connect and explore opportunities for collaboration in the fascinating realm of data analysis and business intelligence.
 
 
-- 💬 Ask me about **SQL, Excel, Power BI, Python**
+- 💬 Ask me about **SQL, Excel, Power BI and Python**
 
 - 📫 How to reach me **sainianju741@gmail.com**
 
