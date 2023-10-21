@@ -6,45 +6,25 @@
 
 I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Excel, Python, BI Tools, and Statistics. Below, I've listed some of the projects I've worked on to showcase my skills:
 
-SQL:
-
-- Joins
-- SubQueries
-- Window Functions
-- DateTime & String Functions
-- CTEs (Common Table Expressions)
-- and more
-- 
-Data Management:
-
+- SQL (Joins, SubQueries, Window-Functions, DateTime & String functions, CTEs, etc)
 - Data Cleaning
-- Exploratory Data Analysis (EDA) for insights and recommendations
+- EDA to generate insights & curate recommendations relevant to the problem statement
 - Data Visualization
-- Dashboarding using BI Tools like Power BI and Tableau
+- Dashboarding (using BI Tools such as Power BI and Tableau)
+- Excel for generating reports and dashboards Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs), Pivot Tables, Excel Charts, Data Validation, and Conditional Formatting.
+- Applied Statistics (Conditional Probability, Random Variables & Distributions, CLT, Hypothesis Testing, etc )
 
-Excel Proficiency:
-
-- Generating reports and dashboards
-- Utilizing Lookup Functions (VLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS)
-- Creating Pivot Tables
-- Designing Excel Charts
-- Implementing Data Validation and Conditional Formatting
-
-Applied Statistics:
-
-- Conditional Probability
-- Random Variables & Distributions
-- Central Limit Theorem (CLT)
-- Hypothesis Testing
-- and more
-
-Beyond these technical skills, I have a deep interest in Artificial Intelligence (AI) and Machine Learning (ML) and how they can address various business challenges. I'm actively upskilling in this domain, aiming to become proficient in all stages of a typical ML project.
+Beyond these technical skills, I have a deep interest in Artificial Intelligence (AI) and Machine Learning (ML) and how they can address various business challenges. I'm actively upskilling in this domain and hope to see myself as a skilled professional comfortable to work across the multiple stages in a typical ML project.
 
 Prior to my data-focused roles, I worked as a Business Analyst Intern. During this internship, I honed my skills in SQL, Excel, and Power BI, specializing in data cleaning, Excel report generation, Power BI dashboard development, and writing complex SQL queries.
 
 My commitment to continuous learning ensures I stay updated with industry trends, positioning me to contribute effectively in the field of data analytics. I'm enthusiastic about the prospect of bringing my analytical skills and problem-solving abilities to your team, and I'm determined to make a positive impact in a dynamic and innovative environment.
 
 Let's connect and explore opportunities for collaboration in the fascinating realm of data analysis and business intelligence.
+
+- 💬 Ask me about **SQL, Excel, Power BI, Python**
+
+- 📫 How to reach me **sainianju741@gmail.com**
 
 
 ## Project
@@ -74,9 +54,7 @@ Let's connect and explore opportunities for collaboration in the fascinating rea
 
 <img align="right" src="https://i.postimg.cc/9f36WZQW/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="300" alt="Cool GIF">
 
-- 💬 Ask me about **SQL, Excel, Power BI, Python**
 
-- 📫 How to reach me **sainianju741@gmail.com**
 
 <h3 align="left">Project Portfolio:</h3>
 <p align="left">
