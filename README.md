@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **sainianju741@gmail.com**
 
+<h3 align="left">Project Portfolio:</h3>
+<p align="left">
+<a href="https://www.novypro.com/profile_projects/powerbiportfolio" target="blank"><img align="center" src="https://i.postimg.cc/nzSm4m26/download.png" alt="https://www.novypro.com/profile_projects/powerbiportfolio" height="30" width="30" /></a>
+<a href="https://public.tableau.com/app/profile/anju.saini" target="blank"><img align="center" src="https://i.postimg.cc/FFnqRnyx/download-1.png" alt="https://public.tableau.com/app/profile/anju.saini" height="30" width="30" /></a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
