@@ -94,7 +94,15 @@ Prior to my data-focused roles, I worked as a Business Analyst Intern. During th
 </p>
 
 
-Let's connect and explore opportunities for collaboration in the fascinating realm of data analysis and business intelligence.
+
+
+
+ 
+ 
+ 
+ 
+ Let's connect and explore opportunities for collaboration in the fascinating realm of data analysis and business intelligence.
+
 
 - 💬 Ask me about **SQL, Excel, Power BI, Python**
 
