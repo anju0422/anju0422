@@ -1,6 +1,77 @@
 [![Blog-Banner.jpg](https://i.postimg.cc/5N2qWbk2/Blog-Banner.jpg)](https://postimg.cc/bd42Qch7)
 <h1 align="center">Hi 👋, I'm Anju Saini</h1>
 <h2 align="center">Data Analyst | Upskilling in Data Science & Machine Learning</h3>
+
+## About
+
+I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Excel, Python, BI Tools, and Statistics. Below, I've listed some of the projects I've worked on to showcase my skills:
+
+SQL:
+
+- Joins
+- SubQueries
+- Window Functions
+- DateTime & String Functions
+- CTEs (Common Table Expressions)
+- and more
+- 
+Data Management:
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA) for insights and recommendations
+- Data Visualization
+- Dashboarding using BI Tools like Power BI and Tableau
+
+Excel Proficiency:
+
+- Generating reports and dashboards
+- Utilizing Lookup Functions (VLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS)
+- Creating Pivot Tables
+- Designing Excel Charts
+- Implementing Data Validation and Conditional Formatting
+
+Applied Statistics:
+
+- Conditional Probability
+- Random Variables & Distributions
+- Central Limit Theorem (CLT)
+- Hypothesis Testing
+- and more
+
+Beyond these technical skills, I have a deep interest in Artificial Intelligence (AI) and Machine Learning (ML) and how they can address various business challenges. I'm actively upskilling in this domain, aiming to become proficient in all stages of a typical ML project.
+
+Prior to my data-focused roles, I worked as a Business Analyst Intern. During this internship, I honed my skills in SQL, Excel, and Power BI, specializing in data cleaning, Excel report generation, Power BI dashboard development, and writing complex SQL queries.
+
+My commitment to continuous learning ensures I stay updated with industry trends, positioning me to contribute effectively in the field of data analytics. I'm enthusiastic about the prospect of bringing my analytical skills and problem-solving abilities to your team, and I'm determined to make a positive impact in a dynamic and innovative environment.
+
+Let's connect and explore opportunities for collaboration in the fascinating realm of data analysis and business intelligence.
+
+
+## Project
+
+### Exploratory Data Analysis on Foreign Retailer in Brazil
+
+- Skills: SQL BigQuery(Sandbox), Tableau(for plotting)
+- Link:  https://anjusaini.notion.site/EDA-of-Foreign-Retailer-in-Brazil-SQL-c533da45f6ba4bbc93f482553e8f9e68?pvs=4
+
+### Portfolio Project: AtliQ Mart Supply Chain Analysis
+
+- Skills: Power BI, Excel
+- Link: https://www.novypro.com/project/supplychain
+- Blog: https://anjusaini.notion.site/Supply-Chain-Analysis-767a19a43bc64eeaa2d31059c513c02e?pvs=4
+
+### Movies-Directors Insights
+
+- Skills: Generated valuable insights by Analyzing & Exploring Movies and Directors datasets using Python Libraries(Pandas and NumPy).
+- Link: https://github.com/anju0422/Movies-Directors-Insights
+
+### Guest Satisfaction NPS Evaluation
+
+- Skills: Calculating NPS (Net Promoter Score) of Airbnb survey, using NumPy.
+- Link: https://github.com/anju0422/Guest-Satisfaction-NPS-Evaluation
+
+
+
 <img align="right" src="https://i.postimg.cc/9f36WZQW/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="300" alt="Cool GIF">
 
 - 💬 Ask me about **SQL, Excel, Power BI, Python**
