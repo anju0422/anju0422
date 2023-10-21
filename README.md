@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anju Saini</h1>
 <h2 align="center">Data Analyst | Upskilling in Data Science & Machine Learning</h3>
 
-## About
+## About me
 
 I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Excel, Python, BI Tools, and Statistics. Below, I've listed some of the projects I've worked on to showcase my skills:
 
