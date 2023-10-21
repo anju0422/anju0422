@@ -18,12 +18,6 @@ Beyond these technical skills, I have a deep interest in Artificial Intelligence
 
 Prior to my data-focused roles, I worked as a Business Analyst Intern. During this internship, I honed my skills in SQL, Excel, and Power BI, specializing in data cleaning, Excel report generation, Power BI dashboard development, and writing complex SQL queries.
 
-Let's connect and explore opportunities for collaboration in the fascinating realm of data analysis and business intelligence.
-
-- 💬 Ask me about **SQL, Excel, Power BI, Python**
-
-- 📫 How to reach me **sainianju741@gmail.com**
-
 
 ## Projects
 
@@ -98,6 +92,14 @@ Let's connect and explore opportunities for collaboration in the fascinating rea
         <img src="https://i.postimg.cc/FFnqRnyx/download-1.png" alt="tableau" width="30" height="30" />
     </a>
 </p>
+
+
+Let's connect and explore opportunities for collaboration in the fascinating realm of data analysis and business intelligence.
+
+- 💬 Ask me about **SQL, Excel, Power BI, Python**
+
+- 📫 How to reach me **sainianju741@gmail.com**
+
 
 
 
