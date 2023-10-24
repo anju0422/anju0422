@@ -48,6 +48,13 @@ Prior to my data-focused roles, I worked as a Business Analyst Intern. During th
 
 
 
+
+- 🌱 I’m currently learning Applied Statistics (Conditional Probability, Baye's theorem, Random Variables & Distributions, CLT, Hypothesis Testing, etc )
+
+- 🔭 I’m currently working on a project where I am a EDA Zomato Banglore Restaurant Analysis using Python(Pandas, NumPy, Matplotlib & Seaborn)
+
+
+
 <h3 align="left">Project Portfolio:</h3>
 <p align="left">
 <a href="https://www.novypro.com/profile_projects/powerbiportfolio" target="blank"><img align="center" src="https://i.postimg.cc/nzSm4m26/download.png" alt="https://www.novypro.com/profile_projects/powerbiportfolio" height="30" width="30" /></a>
