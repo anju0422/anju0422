@@ -14,7 +14,7 @@ I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Exce
 - Dashboarding (using BI Tools such as Power BI and Tableau)
 - Excel for generating reports and dashboards using Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs, etc), Pivot Tables, Excel Charts, Data Validation, and Conditional Formatting.
 
-💡 I’m currently learning Applied Statistics which involves Conditional Probability, Baye's theorem, Random Variables & Distributions, CLT, Hypothesis Testing, etc.
+💡 I’m currently learning Applied Statistics which involves Conditional Probability, Bayes Theorem, Random Variables & Distributions, CLT, Hypothesis Testing, etc.
 
 💻 I’m currently working on a project where I am doing an EDA on a dataset of Zomato Banglore Restaurant using Python, which involves Pandas, NumPy, Matplotlib, and Seaborn.
 
