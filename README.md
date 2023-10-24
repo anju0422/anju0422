@@ -9,10 +9,14 @@ I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Exce
 - SQL (Joins, SubQueries, Window-Functions, DateTime & String functions, CTEs, etc)
 - Data Cleaning
 - EDA to generate insights & curate recommendations relevant to the problem statement
+- Python(Pandas & NumPy)
 - Data Visualization
 - Dashboarding (using BI Tools such as Power BI and Tableau)
 - Excel for generating reports and dashboards using Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs, etc), Pivot Tables, Excel Charts, Data Validation, and Conditional Formatting.
-- Applied Statistics (Conditional Probability, Random Variables & Distributions, CLT, Hypothesis Testing, etc )
+
+- 💡 I’m currently learning Applied Statistics which involves Conditional Probability, Baye's theorem, Random Variables & Distributions, CLT, Hypothesis Testing, etc.
+
+- 💻 I’m currently working on a project where I am doing an EDA on a dataset of Zomato Banglore Restaurant using Python, which involves Pandas, NumPy, Matplotlib, and Seaborn.
 
 Beyond these technical skills, I have a deep interest in Artificial Intelligence (AI) and Machine Learning (ML) and how they can address various business challenges. I'm actively upskilling in this domain and hope to see myself as a skilled professional comfortable to work across the multiple stages in a typical ML project.
 
@@ -45,13 +49,6 @@ Prior to my data-focused roles, I worked as a Business Analyst Intern. During th
 
 
 <img align="right" src="https://i.postimg.cc/9f36WZQW/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="300" alt="Cool GIF">
-
-
-
-
-- 🌱 I’m currently learning Applied Statistics (Conditional Probability, Baye's theorem, Random Variables & Distributions, CLT, Hypothesis Testing, etc )
-
-- 🔭 I’m currently working on a project where I am a EDA Zomato Banglore Restaurant Analysis using Python(Pandas, NumPy, Matplotlib & Seaborn)
 
 
 
