@@ -54,7 +54,8 @@ Prior to my data-focused roles, I worked as a Business Analyst Intern. During th
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-SQL(Basic, Intermediate & Advanced) <a href="https://www.hackerrank.com/profile/sainianju741" target="blank"><img align="center" src="https://i.postimg.cc/Yq9qJ9kC/800px-Hacker-Rank-Icon-1000px.png" alt="https://www.hackerrank.com/profile/sainianju741" height="30" width="40" /></a>
+    
+**SQL** (Basic, Intermediate & Advanced) <a href="https://www.hackerrank.com/profile/sainianju741" target="blank"><img align="center" src="https://i.postimg.cc/Yq9qJ9kC/800px-Hacker-Rank-Icon-1000px.png" alt="https://www.hackerrank.com/profile/sainianju741" height="30" width="40" /></a>
 </p>
 
 
