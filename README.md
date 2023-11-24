@@ -52,6 +52,14 @@ Prior to my data-focused roles, I worked as a Business Analyst Intern. During th
 
 
 
+<h3 align="left">Certifications:</h3>
+<p align="left">
+SQL(Basic, Intermediate & Advanced) <a href="https://www.hackerrank.com/profile/sainianju741" target="blank"><img align="center" src="https://i.postimg.cc/Yq9qJ9kC/800px-Hacker-Rank-Icon-1000px.png" alt="https://www.hackerrank.com/profile/sainianju741" height="30" width="40" /></a>
+</p>
+
+
+
+
 <h3 align="left">Project Portfolio:</h3>
 <p align="left">
 <a href="https://www.novypro.com/profile_projects/powerbiportfolio" target="blank"><img align="center" src="https://i.postimg.cc/nzSm4m26/download.png" alt="https://www.novypro.com/profile_projects/powerbiportfolio" height="30" width="30" /></a>
@@ -59,10 +67,10 @@ Prior to my data-focused roles, I worked as a Business Analyst Intern. During th
 </p>
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anju-saini-228573163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anju-saini-228573163/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sainianju741" target="blank"><img align="center" src="https://i.postimg.cc/Yq9qJ9kC/800px-Hacker-Rank-Icon-1000px.png" alt="https://www.hackerrank.com/profile/sainianju741" height="30" width="40" /></a>
 </p>
 
 
