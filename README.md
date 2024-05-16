@@ -9,7 +9,7 @@ I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Exce
 - SQL (Joins, SubQueries, Window-Functions, DateTime & String functions, CTEs, etc)
 - Data Cleaning
 - EDA to generate insights & curate recommendations relevant to the problem statement
-- Python(Pandas & NumPy)
+- Python(Pandas, NumPy, Matplotlib & Seaborn)
 - Data Visualization
 - Dashboarding (using BI Tools such as Power BI and Tableau)
 - Excel for generating reports and dashboards using Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs, etc), Pivot Tables, Excel Charts, Data Validation, and Conditional Formatting.
@@ -20,7 +20,7 @@ I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Exce
 
 Beyond these technical skills, I have a deep interest in Artificial Intelligence (AI) and Machine Learning (ML) and how they can address various business challenges. I'm actively upskilling in this domain and hope to see myself as a skilled professional comfortable to work across the multiple stages in a typical ML project.
 
-Prior to my data-focused roles, I gained two years of experience as a Power BI Developer at Trailytics. During this time, I honed my skills in SQL, Excel, and Power BI, specializing in data cleaning, Excel report generation, Power BI dashboard development, and writing complex SQL queries.
+Prior to my data-focused roles, I gained two years of experience as a Power BI Developer at Trailytics. During this time, I honed skills in SQL, Excel, and Power BI, specializing in data cleaning, Excel report generation, Power BI dashboard development, and writing complex SQL queries.
 
 
 ## Projects
