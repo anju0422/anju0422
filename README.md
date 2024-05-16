@@ -33,9 +33,7 @@ Prior to my data-focused roles, I gained two years of experience as a Power BI D
 ### Portfolio Project: AtliQ Mart Supply Chain Analysis
 
 - Skills: Power BI, Excel
-- Link: https://www.novypro.com/project/supplychain
-- https://www.novypro.com/project/atliq-mart-supply-chain-analysis-power-bi-4
-- Blog: https://anjusaini.notion.site/Supply-Chain-Analysis-767a19a43bc64eeaa2d31059c513c02e?pvs=4
+- Link: https://www.novypro.com/project/atliq-mart-supply-chain-analysis-power-bi-4
 
 ### Movies-Directors Insights
 
