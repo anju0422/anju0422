@@ -12,7 +12,7 @@ I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Exce
 - Python(Pandas, NumPy, Matplotlib & Seaborn)
 - Data Visualization
 - Dashboarding (using BI Tools such as Power BI and Tableau)
-- Excel for generating reports and dashboards using Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs, etc), Pivot Tables, Excel Charts, Data Validation, and Conditional Formatting.
+- Excel for generating reports and dashboards using Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs, etc), Pivot Tables, Pivot Charts, Data Validation, and Conditional Formatting.
 
 💡 I’m currently learning Applied Statistics which involves Conditional Probability, Bayes Theorem, Random Variables & Distributions, CLT, Hypothesis Testing, etc.
 
