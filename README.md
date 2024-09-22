@@ -27,16 +27,16 @@ Prior to my data-focused roles, I gained two years of experience as a BI Analyst
 
 ### Exploratory Data Analysis on Foreign Retailer in Brazil
 
-- Skills: SQL BigQuery(Sandbox), Tableau(for plotting)
+- Skills: SQL, BigQuery(Sandbox), Tableau(for plotting)
 - Link:  https://anjusaini.notion.site/EDA-of-Foreign-Retailer-in-Brazil-SQL-c533da45f6ba4bbc93f482553e8f9e68?pvs=4
 
-### Portfolio Project: AtliQ Mart Supply Chain Analysis
+### AtliQ Mart Supply Chain Analysis
 
-- Skills: Power BI, Excel
+- Skills: Power BI, Data Modelling, DAX, Data Cleaning 
 - Link: https://www.novypro.com/project/atliq-mart-supply-chain-analysis-power-bi-4
 
 ### Hotel Bookings Data Analysis & Insights through EDA
-- Overview: Conducted exploratory data analysis on the 1,19,390 Hotel Bookings dataset using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to uncover trends, patterns, and insights that can help hotel management optimize operations and improve the guest experience.
+- Skills: Python libraries: Pandas, NumPy, Matplotlib, & Seaborn
 - Link: https://github.com/anju0422/Hotel-Bookings-Insights-through-EDA
 
 ### Movies-Directors Insights
