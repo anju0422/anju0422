@@ -36,7 +36,7 @@ Prior to my data-focused roles, I gained two years of experience as a BI Analyst
 - Link: https://www.novypro.com/project/atliq-mart-supply-chain-analysis-power-bi-4
 
 ### Hotel Bookings Data Analysis & Insights through EDA
-- Skills: Python libraries: Pandas, NumPy, Matplotlib, & Seaborn
+- Skills: Python Libraries: Pandas, NumPy, Matplotlib, & Seaborn
 - Link: https://github.com/anju0422/Hotel-Bookings-Insights-through-EDA
 
 ### Movies-Directors Insights
