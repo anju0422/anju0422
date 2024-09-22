@@ -6,10 +6,10 @@
 
 I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Excel, Python, BI Tools, and Statistics. Below, I've listed some of the projects I've worked on to showcase my skills:
 
-- SQL (Joins, SubQueries, Window-Functions, Date-Time & Aggregate functions, CTEs, etc)
+- SQL (Joins, CTEs, Window-Functions, Aggregate & Date-Time Functions, SubQueries, etc)
 - Data Cleaning
 - EDA to generate insights & curate recommendations relevant to the problem statement
-- Python(Pandas, NumPy, Matplotlib & Seaborn)
+- Python Libraries(Pandas, NumPy, Matplotlib & Seaborn)
 - Data Visualization
 - Dashboarding (using BI Tools such as Power BI and Tableau)
 - Excel for generating reports and dashboards using Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs, etc), Pivot Tables, Pivot Charts, Data Validation, and Conditional Formatting.
