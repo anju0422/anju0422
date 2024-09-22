@@ -44,6 +44,12 @@ Prior to my data-focused roles, I gained two years of experience as a BI Analyst
 - Skills: Analyzing & Exploring Movies and Directors datasets using Python Libraries(Pandas and NumPy).
 - Link: https://github.com/anju0422/Movies-Directors-Insights
 
+### Zomato Case Study
+
+- Skills: SQL, MySQL
+- Link: https://github.com/anju0422/SQL-Zomato-Case-Study
+  
+
 ### Guest Satisfaction NPS Evaluation
 
 - Skills: Calculating NPS (Net Promoter Score) of Airbnb survey, using NumPy.
