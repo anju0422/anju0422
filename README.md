@@ -35,6 +35,10 @@ Prior to my data-focused roles, I gained two years of experience as a BI Analyst
 - Skills: Power BI, Excel
 - Link: https://www.novypro.com/project/atliq-mart-supply-chain-analysis-power-bi-4
 
+### Hotel Bookings Data Analysis & Insights through EDA
+- Overview: Conducted exploratory data analysis on the 1,19,390 Hotel Bookings dataset using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to uncover trends, patterns, and insights that can help hotel management optimize operations and improve the guest experience.
+- Link: https://github.com/anju0422/Hotel-Bookings-Insights-through-EDA
+
 ### Movies-Directors Insights
 
 - Skills: Generated valuable insights by Analyzing & Exploring Movies and Directors datasets using Python Libraries(Pandas and NumPy).
