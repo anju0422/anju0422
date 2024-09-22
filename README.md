@@ -46,7 +46,7 @@ Prior to my data-focused roles, I gained two years of experience as a BI Analyst
 
 ### Zomato Case Study
 
-- Skills: Analyzed Zomato customer data using SQL to identify spending habits, popular products, and membership effects on points earned.
+- Skills: Utilized SQL to analyze Zomato customer data for spending habits, popular products, and membership effects.
 - Link: https://github.com/anju0422/SQL-Zomato-Case-Study
   
 
