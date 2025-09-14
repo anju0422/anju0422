@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a Data Analyst with over a year of hands-on experience using SQL, Excel, Python (Pandas), and Power BI. I specialize in data manipulation, analysis, and visualization.. Below, I've listed some of the projects I've worked on to showcase my skills:
+I'm a Data Analyst with over a year of hands-on experience using SQL, Excel, Python (Pandas), and Power BI. I specialize in data manipulation, analysis, and visualization. Below, I've listed some of the projects I've worked on to showcase my skills:
 
 - SQL (Joins, CTEs, Window-Functions, Aggregate & Date-Time Functions, SubQueries, etc)
 - Data Cleaning
