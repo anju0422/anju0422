@@ -12,7 +12,11 @@ I'm a Data Analyst with over a year of hands-on experience using SQL, Excel, Pyt
 - EDA to generate insights & curate recommendations relevant to the problem statement
 - Data Visualization
 - Dashboarding (using BI Tools such as Power BI and Tableau)
-- Excel for generating reports and dashboards using Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs, etc), Pivot Tables, Pivot Charts, Data Validation, and Conditional Formatting.
+- Excel (Vlookup, Index-Match, Sumifs, Countifs, etc), Pivot Tables, Pivot Charts, Data Validation, and Conditional Formatting.
+
+Currently, I’m sharpening my skills further through an intensive Data Science and Machine Learning coursework at Scaler, ensuring I stay at the forefront of industry trends and best practices.
+
+I'm passionate about solving real-world problems with data and eager to contribute to a forward-thinking team. If you're looking for someone who combines strong analytical skills with a passion for Data Analysis, let’s connect — I'm ready to take on new challenges and create meaningful impact within your organization.
 
 ## Projects
 
