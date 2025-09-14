@@ -4,24 +4,15 @@
 
 ## About me
 
-I'm a Mathematics graduate with a strong and comprehensive skillset in SQL, Excel, Python, BI Tools, and Statistics. Below, I've listed some of the projects I've worked on to showcase my skills:
+I'm a Data Analyst with over a year of hands-on experience using SQL, Excel, Python (Pandas), and Power BI. I specialize in data manipulation, analysis, and visualization.. Below, I've listed some of the projects I've worked on to showcase my skills:
 
 - SQL (Joins, CTEs, Window-Functions, Aggregate & Date-Time Functions, SubQueries, etc)
 - Data Cleaning
-- EDA to generate insights & curate recommendations relevant to the problem statement
 - Python Libraries(Pandas, NumPy, Matplotlib & Seaborn)
+- EDA to generate insights & curate recommendations relevant to the problem statement
 - Data Visualization
 - Dashboarding (using BI Tools such as Power BI and Tableau)
 - Excel for generating reports and dashboards using Lookup Functions (Vlookup, Index-Match, Sumifs, Countifs, etc), Pivot Tables, Pivot Charts, Data Validation, and Conditional Formatting.
-
-💡 I’m currently learning Applied Statistics which involves Conditional Probability, Bayes Theorem, Random Variables & Distributions, CLT, Hypothesis Testing, etc.
-
-💻 I’m currently working on a project where I am doing an EDA on a dataset of Zomato Banglore Restaurant using Python, which involves Pandas, NumPy, Matplotlib, and Seaborn.
-
-Beyond these technical skills, I have a deep interest in Artificial Intelligence (AI) and Machine Learning (ML) and how they can address various business challenges. I'm actively upskilling in this domain and hope to see myself as a skilled professional comfortable to work across the multiple stages in a typical ML project.
-
-Prior to my data-focused roles, I gained 1.5 years of experience as a Data Analyst and Business Analyst. During this time, I honed skills in SQL, Excel, and Power BI, specializing in data cleaning, Excel report generation, Power BI dashboard development, and writing complex SQL queries.
-
 
 ## Projects
 
